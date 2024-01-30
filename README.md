@@ -20,9 +20,3 @@ This project is part of my internship at Prodigy Infotech, and it is Task Number
 - CSS
 - JavaScript
 - [OpenWeather API](https://openweathermap.org/)
-
-## How to Use
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
